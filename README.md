@@ -3,7 +3,7 @@
 ---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimyewon97&count_bg=%23CD0798&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)      [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={kimyewon97})](https://solved.ac/{kimyewon97})　[![instagram](https://img.shields.io/badge/Instagram-414141?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kyvv._/)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={kimyewon97})](https://solved.ac/{kimyewon97})
 
 <div align="center"> 
 
