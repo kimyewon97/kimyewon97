@@ -1,4 +1,4 @@
-### Hi, Welcome ❤
+### Hi, Welcome  🤍 
 
 ---
-- my blog 👉 [naver_blog](https://blog.naver.com/jkvswy57)
+- my blog 👉 [naver blog :](https://blog.naver.com/jkvswy57)
