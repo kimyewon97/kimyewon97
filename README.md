@@ -22,16 +22,6 @@
 　
 　</div>
 
-
-<br>
-<br>
-
-<div align="center"> 
-  
-  ![Java](https://img.shields.io/badge/Java-E8E8E8.svg?&style=for-the-badge&logo=Java&logoColor=white)
-
-</div> 
-
 <br>  
 <br>
 
@@ -45,6 +35,10 @@
 <br>
 
 ---
-### tools
+### Languages and Tools
+
+<br>
+
+  ![Java](https://img.shields.io/badge/Java-E8E8E8.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 
