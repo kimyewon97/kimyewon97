@@ -5,10 +5,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimyewon97&count_bg=%23CD0798&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)      [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={kimyewon97})](https://solved.ac/{kimyewon97})　[![instagram](https://img.shields.io/badge/Instagram-414141?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kyvv._/)
 
+<div align="center"> 
 
-<br>
+### ✴me✴
 
-- my blog 👉 [naver blog](https://blog.naver.com/jkvswy57) 🕶️
+　[![instagram](https://img.shields.io/badge/Instagram-AC6199?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kyvv._/)    [![blog](https://img.shields.io/badge/blog-999999?style=for-the-badge&logo=bloglovin&logoColor=white)](https://blog.naver.com/jkvswy57)    <a href="mailto:kimyw9707@gmail.com">
+   <img src="https://img.shields.io/badge/gmail-AECBFA?style=for-the-badge&logo=google&logoColor=white&link=leegm1798@naver.com"/>
+</a>
+　
+　</div>
+
+
 - I'm studying programming..💪
 - I’m currently learning java 💡
 <br>
