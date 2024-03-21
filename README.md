@@ -1,20 +1,21 @@
 
 ## Hi, Welcome 🖤
 ---
-<div align="center"> 
-  
-  ![Java](https://img.shields.io/badge/Java-E8E8E8.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
-</div> 
-
-<br>
 <br>
 
 - my blog 👉 [naver blog](https://blog.naver.com/jkvswy57) 🕶️
 - I'm studying programming..💪
 - I’m currently learning java 💡
 <br>
-<br>  
+<br>
+
+<div align="center"> 
+  
+  ![Java](https://img.shields.io/badge/Java-E8E8E8.svg?&style=for-the-badge&logo=Java&logoColor=white)
+
+</div> 
+
 <br>  
 <br>
 
