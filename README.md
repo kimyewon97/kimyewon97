@@ -1,4 +1,4 @@
-![Waving](https://capsule-render.vercel.app/api?type=venom&height=100&color=f2f3f4)
+![Waving](https://capsule-render.vercel.app/api?type=venom&height=100&color=f8f8ff)
 ## 🤍♥ Hi, Welcome ♥🤍
 ---
 
