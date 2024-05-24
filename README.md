@@ -1,4 +1,4 @@
-![Waving](https://capsule-render.vercel.app/api?type=venom&height=50&color=f8f8ff)
+![Waving](https://capsule-render.vercel.app/api?type=venom&height=80&color=f8f8ff)
 ## 🤍♥ Hi, Welcome ♥🤍
 ---
 
@@ -42,3 +42,9 @@
   ![Java](https://img.shields.io/badge/Java-E8E8E8.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 
+<br>
+<br>
+<br>
+<br>
+
+![Waving](https://capsule-render.vercel.app/api?type=soft&height=10&color=f8f8ff&section=footer)
