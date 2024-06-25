@@ -40,6 +40,7 @@
 <br>
 
   ![Java](https://img.shields.io/badge/Java-E8E8E8.svg?&style=for-the-badge&logo=Java&logoColor=white)
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 
 
 <br>
