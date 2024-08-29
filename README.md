@@ -16,8 +16,8 @@
 
 ### ✯ Follow me ✯ 
 
-　[![instagram](https://img.shields.io/badge/Instagram-AC6199?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kyvv._/)    [![blog](https://img.shields.io/badge/blog-999999?style=for-the-badge&logo=bloglovin&logoColor=white)](https://kimyw9707.tistory.com/)    <a href="mailto:kimyw9707@gmail.com"/>
-   <img src="https://img.shields.io/badge/gmail-AECBFA?style=for-the-badge&logo=google&logoColor=white&link=leegm1798@naver.com"/>
+　[![instagram](https://img.shields.io/badge/Instagram-AC6199?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kyvv._/)    [![blog](https://img.shields.io/badge/blog-999999?style=for-the-badge&logo=bloglovin&logoColor=white)](https://kimyw9707.tistory.com/)
+ [![Gamil](https://img.shields.io/badge/gmail-AECBFA?style=for-the-badge&logo=google&logoColor=white)](https://kimyw9707.tistory.com/)
 　
 　</div>
 
